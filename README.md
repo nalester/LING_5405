@@ -1,1 +1,3 @@
-# LING_5405
+# LING 5405
+
+This repo contains various materials for LING 5405 (Fall 2022)
